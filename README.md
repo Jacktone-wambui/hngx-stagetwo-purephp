@@ -8,6 +8,9 @@ This API provides endpoints for managing a person's data. It allows you to creat
 - MySQL 
 - Web server
 
+## UML LINK :
+https://github.com/Jacktone-wambui/hngx-stagetwo-purephp/blob/master/Frame%201.png  
+
 ## Setup
 
 1. Clone the repository:
