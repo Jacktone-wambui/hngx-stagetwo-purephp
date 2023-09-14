@@ -13,13 +13,13 @@ This API provides endpoints for managing a person's data. It allows you to creat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Jacktone-wambui/hngx-stagetwo-purephp
    ```
 
 2. Navigate to the project directory:
 
    ````bash
-   cd your-repo
+   cd hngx-stagetwo-purephp
    ```
 
 3. Create a new database and import the `hngxtwo.sql` file included in the project.
@@ -119,13 +119,3 @@ The API provides the following endpoints:
 4. Push the branch to your fork: `git push origin my-new-feature`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to customize the instructions, endpoints, and other details based on your specific API implementation.
-
-Make sure to update the placeholders like `<person_id>`, `X.X.X`, `your-username`, `your-repo`, and others with the appropriate values and information relevant to your project.
-
-Including a comprehensive README.md file helps users understand how to set up, run, and use your API effectively.
